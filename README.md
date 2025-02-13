@@ -1,19 +1,19 @@
 # DallogFheir
 
-Applied Computer Science student at Wrocław University of Science and Technology, member of the <a href="https://knneuron.pwr.edu.pl/" target="_blank" rel="noreferrer noopener">"Neuron" student research group</a>.
+Applied Computer Science student at Wrocław University of Science and Technology, member of the <a href="https://knneuron.pwr.edu.pl/">"Neuron" student research group</a>.
 
 SAP ABAP & UI5 developer.
 
 Some stuff I made:
 
 <div align="center">
-    <a href="https://adam-broszkiewicz.pl/platynowy-bog/" target="_blank" rel="noreferrer noopener">
-        <img width="75" src="data:image/png;base64,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" alt="Platynowy Bóg" title="Platynowy Bóg"/>
+    <a href="https://adam-broszkiewicz.pl/platynowy-bog/">
+        <img width="75" src="https://adam-broszkiewicz.pl/assets/platynowy-bog-u8oXH5wK.png" alt="Platynowy Bóg" title="Platynowy Bóg"/>
     </a>
-    <a href="https://adam-broszkiewicz.pl/cluedo-solver" target="_blank" rel="noreferrer noopener">
+    <a href="https://adam-broszkiewicz.pl/cluedo-solver">
         <img width="100" src="https://adam-broszkiewicz.pl/assets/cluedo-solver-DQ3_2gPo.png" alt="Cluedo Solver" title="Cluedo Solver"/>
     </a>
-    <a href="https://www.reddit.com/user/BeginnerProjectsBot" target="_blank" rel="noreferrer noopener">
+    <a href="https://www.reddit.com/user/BeginnerProjectsBot">
         <img width="60" src="https://adam-broszkiewicz.pl/assets/beginner-projects-bot-Dp0FrN65.png" alt="Beginner Projects Bot" title="Beginner Projects Bot"/>
     </a>
 </div>

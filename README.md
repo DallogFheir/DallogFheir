@@ -8,7 +8,7 @@ Some stuff I made:
 
 <div align="center">
     <a href="https://adam-broszkiewicz.pl/platynowy-bog/">
-        <img width="75" src="https://adam-broszkiewicz.pl/assets/platynowy-bog-u8oXH5wK.png" alt="Platynowy Bóg" title="Platynowy Bóg"/>
+        <img width="75" src="assets/platynowy-bog.png" alt="Platynowy Bóg" title="Platynowy Bóg"/>
     </a>
     <a href="https://adam-broszkiewicz.pl/cluedo-solver">
         <img width="100" src="https://adam-broszkiewicz.pl/assets/cluedo-solver-DQ3_2gPo.png" alt="Cluedo Solver" title="Cluedo Solver"/>

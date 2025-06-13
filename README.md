@@ -10,7 +10,7 @@ Some stuff I made:
     <a href="https://dallogfheir.github.io/platynowy-bog/">
         <img width="75" src="assets/platynowy-bog.png" alt="Platynowy Bóg" title="Platynowy Bóg"/>
     </a>
-    <a href="https://dallogfheir.github.io/cluedo-solver">
+    <a href="https://dallogfheir.github.io/cluedo-solver-v2">
         <img width="100" src="assets/cluedo-solver.png" alt="Cluedo Solver" title="Cluedo Solver"/>
     </a>
     <a href="https://www.reddit.com/user/BeginnerProjectsBot">
